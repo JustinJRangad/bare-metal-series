@@ -2,7 +2,7 @@
 
 ## The primary sources of information
 
-- The datasheet
+- The datasheet??
 - The reference manual
 
 ## What do these functions do?
